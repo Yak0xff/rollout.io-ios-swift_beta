@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name         = "Rollout.io"
+  s.name         = "Rollout.io-SwiftBeta"
   s.version      = "0.1"
   s.summary      = "Hot patch critical bugs in production apps"
   s.description  = "Rollout.io is an SDK that gives developers control over their apps in production, including the ability to remotely fix or contain bugs and quality issues."
